@@ -27,5 +27,5 @@ Il a été réalisé dans le cadre d’un TP de calcul géométrique.
 - Implémentation complète et fonctionnelle d’une base de calcul géométrique 2D.
 
 ## Auteur
-Mouhalhal Moussaab
+Mouhalhal Moussaab  
 26/10/2025
