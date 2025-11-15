@@ -5,11 +5,16 @@ Chaque projet contient son propre README détaillant la méthodologie, les outil
 
 ## Projets inclus
 
-- [Meteo_Analysis_Pandas](./Meteo_Analysis_Pandas) – Analyse des relevés météo d’Ajaccio pour l’année 2014 avec Python et Pandas.  
-  Ce projet comprend le traitement des données, visualisations graphiques (température, précipitations, vent, neige), statistiques par mois et comparaison avec les normales climatiques.
+- [Geometrie_2D](./Geometrie_2D) – Implémentation et validation des classes `Point` et `Triangle` en 2D.  
+  Le projet inclut les calculs géométriques (distances, surfaces, barycentres, rotations), ainsi que des notebooks de validation et un rapport détaillé.
   
-- [Aerodynamique_XFoil](./Aerodynamique_XFoil) – Simulation aérodynamique d’une éolienne à 3 pales (profil NACA4409).
+- [Meteo_Analysis_Pandas](./Meteo_Analysis_Pandas) – Analyse des relevés météo d’Ajaccio pour l’année 2014 avec Python et Pandas.  
+  Le projet inclut le traitement du DataFrame, l’étude des températures, précipitations, neige et vent, ainsi que la comparaison avec les normales climatiques.
+
+- [Aerodynamique_XFoil](./Aerodynamique_XFoil) – Simulation aérodynamique d’une éolienne à 3 pales (profil NACA4409).  
+  Le projet comprend le calcul des coefficients aérodynamiques (CL, CD), la construction d'une base de données propre et l’évaluation des performances (CP, puissance).
+
 
 ## Auteur
-Mouhalhal Moussaab   
-  
+Mouhalhal Moussaab
+
