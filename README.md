@@ -1,6 +1,7 @@
 # Python Projects
 
 Ce dépôt contient plusieurs projets Python réalisés dans le cadre de mon Master en Simulation et Modélisation Mécanique.
+Chaque projet contient son propre README détaillant la méthodologie, les outils utilisés et les résultats.
 
 ## Projets inclus
 
@@ -9,4 +10,3 @@ Ce dépôt contient plusieurs projets Python réalisés dans le cadre de mon Mas
   
 - [Aerodynamique_XFoil](./Aerodynamique_XFoil) – Simulation aérodynamique d’une éolienne à 3 pales (profil NACA4409).  
   
-Chaque projet contient son propre README détaillant la méthodologie, les outils utilisés et les résultats.
