@@ -1,6 +1,6 @@
 # Python Projects
 
-Ce dépôt contient plusieurs projets Python réalisés dans le cadre de mon Master en Simulation et Modélisation Mécanique.
+Ce dépôt contient plusieurs projets Python réalisés dans le cadre de mon Master en Simulation et Modélisation Mécanique.  
 Chaque projet contient son propre README détaillant la méthodologie, les outils utilisés et les résultats.
 
 ## Projets inclus
