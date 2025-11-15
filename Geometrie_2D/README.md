@@ -1,30 +1,31 @@
 # Calcul Géométrique 2D – Classes Point & Triangle
 
-Ce projet consiste à implémenter deux classes Python permettant de manipuler des objets géométriques en 2D : un **Point** et un **Triangle**.  
+Ce projet met en place deux classes Python pour manipuler des objets géométriques en 2D : **Point** et **Triangle**.  
 Il a été réalisé dans le cadre d’un TP de calcul géométrique.
 
 ## Objectif
-- Manipuler des points et triangles en 2D avec Python.  
-- Calculer des propriétés géométriques : distance, angle, barycentre, périmètre, surface.  
-- Effectuer des transformations (translation, rotation).  
-- Déterminer des intersections et des coordonnées barycentriques.  
-- Visualiser les objets à l'aide de `matplotlib`.
+- Représenter des points et triangles dans le plan.  
+- Calculer des propriétés géométriques : distances, angles, barycentre, périmètre, surface…  
+- Réaliser des transformations (translation, rotation).  
+- Déterminer des coordonnées barycentriques, tester l’appartenance d’un point, vérifier les intersections.  
+- Visualiser les objets et valider les méthodes via des notebooks.
 
 ## Outils utilisés
 - Python  
-- math  
 - matplotlib  
+- math  
 
-## Contenu
-- **Point.py** : définition et méthodes principales (distance, angle, rotation, translation, tracé…).  
-- **Triangle.py** : barycentre, périmètre, surface, rotation, intersection, tracé…  
-- **rapport.pdf** : explications détaillées du TP et validations graphiques.  
-- **triangle.png** : illustration du tracé utilisé pour les tests.
+## Contenu du dossier
+- **Code_Point.py** : implémentation de la classe `Point` (calculs, transformations, tracés…).  
+- **Code_Triangle.py** : implémentation de la classe `Triangle` (propriétés géométriques, rotation, intersection…).  
+- **Validation_Point.ipynb** : tests et validations graphiques de la classe `Point`.  
+- **Validation_Triangle.ipynb** : tests et visualisations pour la classe `Triangle`.  
+- **rapport.pdf** : compte rendu détaillé du TP et explications théoriques.
 
 ## Résultats
-- Validation des méthodes des classes `Point` et `Triangle` avec différents cas de test.  
-- Vérification visuelle des transformations et tracés graphiques.  
-- Implémentation complète et fonctionnelle d’une base de calcul géométrique 2D.
+- Toutes les méthodes des classes `Point` et `Triangle` ont été validées par des tests dédiés.  
+- Les transformations géométriques (rotation, translation) fonctionnent correctement.  
+- Les tracés générés permettent de vérifier visuellement la cohérence des calculs.
 
 ## Auteur
 Mouhalhal Moussaab  
