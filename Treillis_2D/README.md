@@ -29,11 +29,6 @@ Le projet est organisé en deux scripts principaux :
 - Support pour plusieurs types de conditions aux limites par nœud :
   - Libre, bloqué en \(x\), bloqué en \(y\), encastré.
 
-## Utilisation
-
-1. Placer les fichiers de données du treillis dans le même répertoire que les scripts.
-2. Exécuter `Code_Treillis.py` pour valider le code avec un treillis simple.
-3. Exécuter `Code_Treillis_Analyse.py` pour analyser un treillis complet et visualiser les résultats.
 
 ## Outils utilisés
 
