@@ -14,6 +14,7 @@ Chaque projet contient son propre README détaillant la méthodologie, les outil
 - [Aerodynamique_XFoil](./Aerodynamique_XFoil) – Simulation aérodynamique d’une éolienne à 3 pales (profil NACA4409).  
   Le projet comprend le calcul des coefficients aérodynamiques (CL, CD), la construction d'une base de données propre et l’évaluation des performances (CP, puissance).
 
+- [Treillis_2D](./Treillis_2D) – Étude et analyse de treillis 2D à l’aide de scripts Python. Le projet inclut la modélisation des structures à barres, le calcul des matrices de rigidité, l’application des conditions aux limites et l’analyse des déplacements sous différentes charges (poids propre, toiture, neige). Un treillis simple est utilisé pour valider le code, puis un treillis complet est analysé pour déterminer les sollicitations de chaque barre (traction ou compression).  
 
 ## Auteur
 Mouhalhal Moussaab
