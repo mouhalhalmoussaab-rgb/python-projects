@@ -11,9 +11,7 @@ Il a été réalisé dans le cadre d’un TP de calcul géométrique.
 - Visualiser les objets et valider les méthodes via des notebooks.
 
 ## Outils utilisés
-- Python  
-- matplotlib  
-- math  
+- Python (Numpy, Matplotlib, Math)
 
 ## Contenu du dossier
 - **Code_Point.py** : implémentation de la classe `Point` (calculs, transformations, tracés…).  
