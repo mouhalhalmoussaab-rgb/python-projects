@@ -37,8 +37,7 @@ Le projet est organisé en deux scripts principaux :
 
 ## Outils utilisés
 
-- Numpy
-- Matplotlib
+- Python (Numpy, Matplotlib)
 
 ## Résultats
 
