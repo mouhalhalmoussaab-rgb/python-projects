@@ -16,9 +16,7 @@ Visualiser les principales grandeurs physiques : angle d’incidence, nombre de 
 
 ## Outils utilisés :
 
-Python (numpy, matplotlib, math)
-
-XFoil (modélisation aérodynamique 2D)
+Python : Numpy, XFoil (modélisation aérodynamique 2D), Matplotlib, Math 
 
 Méthodes numériques : intégration, interpolation et nettoyage de données
 
