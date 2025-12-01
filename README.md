@@ -5,6 +5,10 @@ Chaque projet contient son propre README détaillant la méthodologie, les outil
 
 ## Projets inclus
 
+
+- [Traitement_et_filtrage_de_signaux](./Traitement_signaux) – Analyse et filtrage de signaux périodiques bruités X(t) et Y(t) pour extraire les composantes principales et les coefficients de Lissajous.  
+  Le projet inclut la lecture et le tri des données, le calcul des spectres via FFT, la reconstruction des signaux filtrés et la visualisation des courbes de Lissajous avant et après filtrage.  
+
 - [Meteo_Analysis_Pandas](./Meteo_Analysis_Pandas) – Analyse des relevés météo d’Ajaccio pour l’année 2014 avec Python et Pandas.  
   Le projet inclut le traitement du DataFrame, l’étude des températures, précipitations, neige et vent, ainsi que la comparaison avec les normales climatiques.
   
