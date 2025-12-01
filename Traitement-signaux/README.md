@@ -5,7 +5,7 @@ Traitement et filtrage de signaux
 Analyser et filtrer deux signaux périodiques X(t) et Y(t) représentant des courbes de Lissajous bruitées afin d’extraire les caractéristiques principales (fréquences, amplitudes, coefficients de Lissajous).
 
 ## Tâches principales
-- Lecture des données depuis un fichier texte (`donnes.dat`)
+- Lecture des données depuis un fichier texte (`mon_fichier.dat`)
 - Tri des données par rapport au temps
 - Calcul des spectres des signaux avec la transformée de Fourier (FFT)
 - Extraction des amplitudes, phases et fréquences fondamentales
