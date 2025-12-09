@@ -15,7 +15,7 @@ Le projet est organisé en un script principal :
 - `LeapFrog(L,V,beta,t,ntime,N)` : schéma Leap-Frog.
 - `sol_ex(x,t,V,L,beta)` : solution analytique de l’équation de transport.
 
-Le script principal compare les solutions numériques aux solutions analytiques pour différentes méthodes et valeurs du paramètre \(r = V \Delta t / \Delta x\).
+Le script principal compare les solutions numériques aux solutions analytiques pour différentes méthodes et valeurs du paramètre $r = V \Delta t / \Delta x$.
 
 
 
