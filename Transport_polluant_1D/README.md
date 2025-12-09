@@ -2,7 +2,6 @@
 
 Ce projet contient des scripts Python permettant d’étudier la propagation d’un polluant dans un fluide en écoulement uniforme selon l’axe \(x\), sans diffusion.
 
----
 
 ## Description
 
@@ -18,7 +17,7 @@ Le projet est organisé en un script principal :
 
 Le script principal compare les solutions numériques aux solutions analytiques pour différentes méthodes et valeurs du paramètre \(r = V \Delta t / \Delta x\).
 
----
+
 
 ## Fonctionnalités
 
@@ -30,7 +29,7 @@ Le script principal compare les solutions numériques aux solutions analytiques 
   - Leap-Frog
 - Visualisation graphique des résultats avec sauvegarde des figures.
 
----
+
 
 ## Outils utilisés
 
@@ -38,19 +37,19 @@ Le script principal compare les solutions numériques aux solutions analytiques 
 - Numpy
 - Matplotlib
 
----
+
 
 ## Résultats
 
 - Graphiques des solutions numériques et exactes pour différents schémas et temps.
 - Étude de la diffusion et dispersion numérique selon le schéma choisi et le paramètre \(r\).
 
----
+
 
 ## Auteur
 
 Mouhalhal Moussaab
 
----
+
 
 
