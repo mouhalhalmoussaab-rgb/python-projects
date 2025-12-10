@@ -1,6 +1,7 @@
 import numpy as np
 import scipy
 import matplotlib.pyplot as plt
+import time
 Nx=16
 Ny=8
 tf=120
@@ -74,8 +75,8 @@ ax=fig.add_subplot(111, projection='3d')
 surf=ax.plot_surface(X,Y,Z, cmap='viridis')
 fig.colorbar(surf)
 
-
 #sol num schéma implicite
+#t1=time.process_time()
 a=-cte_y * np.ones(Nx* Ny -Nx)
 b=-cte_x * np.ones(Nx* Ny -1)
 c=(1 + 2*cte_x + 2*cte_y) * np.ones(Nx* Ny )
@@ -94,6 +95,9 @@ for k in range(Nt) :
         U[i]=0
         U[i + (Ny-1)*Nx]=0
 U=U.reshape(X.shape)
+
+#t2=time.process_time()
+#duree=t2-t1
     
 
 Z=U
@@ -102,4 +106,3 @@ fig=plt.figure()
 ax=fig.add_subplot(111, projection='3d')
 surf=ax.plot_surface(X,Y,Z, cmap='viridis')
 fig.colorbar(surf)
-#il faut le temps de calculs pour méthode direct et matrices creuses pour schéma implicite
