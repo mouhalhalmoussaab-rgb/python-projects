@@ -1,7 +1,8 @@
 # Écoulement instationnaire 2D
 
-Ce projet contient des scripts Python permettant d’étudier l’évolution de la vitesse d’un écoulement dans une conduite rectangulaire à partir de l’équation de diffusion instationnaire en 2D.
+Ce projet contient des scripts Python permettant d’étudier l’évolution de la vitesse d’un écoulement dans une conduite rectangulaire à partir de l’équation de diffusion instationnaire en 2D.  
 
+**L’utilisation de matrices creuses optimise fortement le temps de calcul pour des systèmes linéaires de grande taille.**
 
 
 ## Description
