@@ -5,12 +5,11 @@ Chaque projet contient son propre README détaillant la méthodologie, les outil
 
 ## Projets inclus
 
+- [Ecoulement_instationnaire_2D](./Ecoulement_instationnaire_2D) – Étude de la diffusion instationnaire en 2D dans une conduite rectangulaire.  
+  Le projet implémente des schémas explicites et implicites pour résoudre l’équation de diffusion. Il compare les solutions numériques aux solutions exactes, visualise les champs de vitesse et illustre l’importance des **matrices creuses pour optimiser le temps de calcul dans le cas de grandes matrices.**
+  
 - [Transport_polluant_1D](./Transport_polluant_1D) – Simulation numérique de l’équation de transport 1D pour un polluant se déplaçant à vitesse constante.  
   Le projet inclut la comparaison de la solution exacte avec trois schémas numériques : Courant, Lax-Wendroff et Leap-Frog. Les scripts calculent la concentration C(x,t), tracent les profils pour différents instants et étudient l’effet du paramètre CFL (r) sur la diffusion et la dispersion numérique.
-
-- [Ecoulement_instationnaire_2D](./Ecoulement_instationnaire_2D) – Étude de la diffusion instationnaire en 2D dans une conduite rectangulaire.  
-  Le projet implémente des schémas explicites et implicites pour résoudre l’équation de diffusion. Il compare les solutions numériques aux solutions exactes, visualise les champs de vitesse et illustre l’importance des matrices creuses pour optimiser le temps de calcul dans le cas de grandes matrices.
- 
 
 - [Meteo_Analysis_Pandas](./Meteo_Analysis_Pandas) – Analyse des relevés météo d’Ajaccio pour l’année 2014 avec Python et Pandas.  
   Le projet inclut le traitement du DataFrame, l’étude des températures, précipitations, neige et vent, ainsi que la comparaison avec les normales climatiques.
