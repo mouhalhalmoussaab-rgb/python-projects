@@ -8,7 +8,7 @@ Chaque projet contient son propre README détaillant la méthodologie, les outil
 - [EquationTransport](./EquationTransport) – Simulation numérique de l’équation de transport 1D pour un polluant se déplaçant à vitesse constante.  
   Le projet inclut la comparaison de la solution exacte avec trois schémas numériques : Courant, Lax-Wendroff et Leap-Frog. Les scripts calculent la concentration C(x,t), tracent les profils pour différents instants et étudient l’effet du paramètre CFL (r) sur la diffusion et la dispersion numérique.
 
-- [Diffusion2D](./Diffusion2D) – Étude de la diffusion instationnaire en 2D dans une conduite rectangulaire.  
+- [Ecoulement_instationnaire_2D](./Ecoulement_instationnaire_2D) – Étude de la diffusion instationnaire en 2D dans une conduite rectangulaire.  
   Le projet implémente des schémas explicites et implicites pour résoudre l’équation de diffusion. Il compare les solutions numériques aux solutions exactes, visualise les champs de vitesse 3D et illustre l’importance des matrices creuses pour optimiser le temps de calcul dans le cas de grandes matrices.
  
 
