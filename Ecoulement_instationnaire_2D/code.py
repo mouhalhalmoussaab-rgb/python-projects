@@ -102,4 +102,4 @@ fig=plt.figure()
 ax=fig.add_subplot(111, projection='3d')
 surf=ax.plot_surface(X,Y,Z, cmap='viridis')
 fig.colorbar(surf)
-#il faut tracer le max en fct du temps et le temps de calculs pour méthode direct et matrices creuses pour schéma implicite
+#il faut le temps de calculs pour méthode direct et matrices creuses pour schéma implicite
