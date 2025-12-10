@@ -33,9 +33,7 @@ Le script principal compare les solutions numériques aux solutions analytiques 
 
 ## Outils utilisés
 
-- Python
-- Numpy
-- Matplotlib
+- Python (Numpy, Matplotlib).
 
 
 
