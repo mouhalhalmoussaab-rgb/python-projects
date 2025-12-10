@@ -7,7 +7,7 @@ Ce projet contient des scripts Python permettant d’étudier la propagation d�
 
 Le projet est organisé en un script principal :
 
-**transport.py** : définition des fonctions pour résoudre l’équation de transport :
+**code.py** : définition des fonctions pour résoudre l’équation de transport :
 
 - `thomas(A,D)` : résolution d’un système tridiagonal par l’algorithme de Thomas.
 - `Courant(L,V,beta,t,ntime,N)` : schéma de Courant pour l’équation de transport.
