@@ -45,10 +45,7 @@ Le script compare les solutions numériques aux solutions exactes pour évaluer 
 
 ## Outils utilisés
 
-- Python
-- Numpy
-- Scipy
-- Matplotlib
+- Python (Numpy, Scipy, Matplotlib, Time).
 
 
 
