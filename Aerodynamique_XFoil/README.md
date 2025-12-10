@@ -8,7 +8,7 @@ Ce projet a été réalisé dans le cadre d’un TP du Master Modélisation et A
 
 Calculer les coefficients aérodynamiques (CL et CD) en fonction du nombre de Reynolds et de l’angle d’incidence à l’aide du module XFoil.
 
-Évaluer la puissance et le coefficient de performance (CP) de l’éolienne pour un rapport de vitesses lambda donné.
+Évaluer la puissance et le coefficient de performance (CP) de l’éolienne pour un rapport de vitesses $\lambda$ donné.
 
 Construire et nettoyer une base de données aérodynamique (CL, CD) pour différentes configurations.
 
