@@ -23,7 +23,7 @@ def lecture(fichier):
 
 def tri_bulles(T,X,Y):
     '''tri les données sur place (par rapport a T): les tableaux T,X,Y sont donc modifiés'''
-    for j in range (len(T)-1 , 1, -1) :
+    for j in range (len(T)-1 , 0, -1) :
         for i in range(j) :
             if T[i] > T[i+1] :
                 T[i],T[i+1] = T[i+1],T[i]
