@@ -20,7 +20,7 @@ Analyser et filtrer deux signaux périodiques X(t) et Y(t) représentant des cou
 - Spectre de X : signal bruité avec f ≈ 0.125 Hz  
 - Spectre de Y : signal peu bruité avec f ≈ 0.143 Hz  
 - Signaux filtrés X1 et Y1 plus réguliers
-- Coefficients de Lissajous : p ≈ 2.759, q ≈ 1.747
+- Coefficients de Lissajous : p ≈ 0.785, q ≈ 0.898
 
 ## Auteur
 Mouhalhal Moussaab
