@@ -43,7 +43,7 @@ def analyse_spectral(T,U):
     '''calcul mode fondamentale du signal U échantillonné en T '''
     f,s=spectre(T,U)
     i=np.argmax(np.abs(s))
-    return np.abs(s[i])/(len(s)-1) , np.angle(s[i]), f[i]
+    return 2*np.abs(s[i])/len(U) , np.angle(s[i]), f[i]
 
 def ecriture(fichier,T,X,Y):
     ''' Ecrire dans fichier de T,X,Y avec le format définit'''
